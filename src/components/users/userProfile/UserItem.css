@@ -1,0 +1,17 @@
+.UserItemContent img {
+    width:15%;
+}
+
+.UserItemContent{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.UserProfileInformation{
+    margin-left: 5%;
+}
+
+.UserProfileInformation div{
+    margin: 4%;
+    font-size: large;
+}

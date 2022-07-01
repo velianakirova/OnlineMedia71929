@@ -1,0 +1,4 @@
+.GroupsList-items {
+    display: flex;
+    flex-wrap: wrap;
+}

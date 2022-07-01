@@ -1,0 +1,21 @@
+.GroupsList{
+    display: contents;
+    justify-content: center;
+    align-items: center;
+}
+
+.GroupsForm h1{
+    text-align: center;
+}
+
+.GroupsForm{
+    display: grid;
+    justify-content: center;
+}
+
+.GroupsForm input{
+    margin: 3px;
+    width: 327px;
+    height: 40px;
+}
+

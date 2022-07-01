@@ -1,0 +1,10 @@
+#welcome {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#welcome h1 {
+    font-size: xxx-large;
+    text-align: center;
+}

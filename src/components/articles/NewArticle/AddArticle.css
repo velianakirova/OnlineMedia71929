@@ -1,0 +1,39 @@
+
+.ArticlesList{
+    display: contents;
+    justify-content: center;
+    align-items: center;
+}
+
+.AddArticle-form{
+    display: grid;
+    justify-content: center;
+}
+
+.AddArticle-form input{
+    margin: 3px;
+    width: 60rem;
+    height: 3rem;
+}
+
+.AddArticle-form button{
+    width: 337px;
+    height: 40px;
+    display: inline-block;
+    padding:10px 20px;
+    margin: 3px;
+    border: 1px solid rgb(128, 148, 240);
+    background-color: rgb(162, 168, 253);
+    color:white;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.AddArticle-form #longDescription{
+    width: 60rem;
+}
+
+.AddArticle-form h1{
+    text-align: -webkit-center;
+}

@@ -1,0 +1,20 @@
+.Nav {
+    display: flex;
+    justify-content: center;
+}
+
+.Nav a {
+    display: inline-block;
+    padding:10px 20px;
+    margin: 3px;
+    border: 1px solid #215393;
+    background-color: #d9e5f5;
+    color: #215393;
+    border-radius: 5px;
+}
+
+.Nav a.active {
+    border: 1px solid rgb(0, 116, 199);
+    background-color: rgb(154,193,215);
+    color:white;
+}

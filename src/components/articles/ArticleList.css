@@ -1,0 +1,4 @@
+.ArticlesListItems {
+    display: flex;
+    flex-wrap: wrap;
+}

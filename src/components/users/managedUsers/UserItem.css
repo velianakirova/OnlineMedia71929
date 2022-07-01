@@ -1,0 +1,14 @@
+
+.UserItem{
+    display: flex;
+    border-bottom: solid 0.5px;
+    margin: 5px;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-between;
+    width: 110%;
+}
+
+.UserItem span{
+    margin: 10px;
+}
